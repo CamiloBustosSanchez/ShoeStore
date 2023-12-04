@@ -35,5 +35,10 @@ ya para los que siguen no se tiene como se denota a continuacion
 ![image](https://github.com/CamiloBustosSanchez/ShoeStore/assets/127156133/7adc96cd-3b33-4fd7-a33c-98df30dc167e)
 
 
+(Structura del Json)
+
+![image](https://github.com/CamiloBustosSanchez/ShoeStore/assets/127156133/ce744bef-5237-4d21-bdbf-b1702b06b162)
+
+
 
 
