@@ -8,3 +8,10 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # ShoeStore
 Pagina para la visualizacion de zapatos por medio de un json
+
+para inicializar el proyecto ya descargado en nuestra maquina local...
+Se debe ingresar el comando
+
+![image](https://github.com/CamiloBustosSanchez/ShoeStore/assets/127156133/1d0c5f73-9d66-4a9d-8584-234cfadc477e)
+
+
