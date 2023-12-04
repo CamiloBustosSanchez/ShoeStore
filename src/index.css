@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    background: #ffffff ;
+    font-family: 'Montserrate';
+    display: grid;
+    place-content: center;
+    min-height: 100vh;
+    
+}
+
+.banner{
+    width: 300px;
+    align-items: start;
+}
+
+.bannerUo{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    font-size: medium;
+    padding: auto;
+}
+
+.labelBanner{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    font-size: medium;
+    align-items: start;
+}
+.bannerSearch{
+    align-content: end;
+}
